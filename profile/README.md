@@ -59,8 +59,7 @@ We bridge industry, culture, and innovation — from intelligent agents to autom
 - 📧 **Email**: [office@lokam.ai](mailto:office@lokam.ai)  
 - 🌐 **Website**: [www.lokam.ai](https://lokam.ai)  
 - 📍 **Locations**: Ontario, Canada | Bangalore, India  
-- 🧵 [Twitter](https://twitter.com/lokamai) · 📷 [Instagram](https://instagram.com/lokam.ai)
-
+- 🧵 [Twitter](https://x.com/lokam_ai) · 📷 [Instagram](https://www.instagram.com/lokam_ai)
 ---
 
 ## 📜 License
