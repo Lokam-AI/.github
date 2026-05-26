@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/company/lokam-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/lokam_ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://x.com/lokam_ai"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="mailto:office@lokam.ai"><img src="https://img.shields.io/badge/office@lokam.ai-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:business@lokam.ai"><img src="https://img.shields.io/badge/business@lokam.ai-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
