@@ -1,74 +1,49 @@
-<h1 align="center">🌍 Lokam AI</h1>
 <p align="center">
-  <strong>Transforming Businesses with Intelligent AI Solutions</strong><br/>
-  Simplifying your journey from data to AI.
+  <img src="./LOKAM_PRIMARY_FULL_LOGO_BLACK.svg" width="300" alt="Lokam AI" />
+</p>
+
+<p align="center"><strong>Voice AI for automotive dealerships.</strong></p>
+
+<p align="center">
+  <a href="https://lokam.ai"><img src="https://img.shields.io/badge/lokam.ai-085856?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/company/lokam-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/lokam_ai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/lokam_ai"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="mailto:office@lokam.ai"><img src="https://img.shields.io/badge/office@lokam.ai-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 Who We Are
+Lokam automates CSI follow-up calls, recovers unsold leads, and improves dealership retention - powered by voice AI and integrated directly with your DMS.
 
-**Lokam AI** is an AI consulting company helping mid-sized businesses unlock growth and efficiency using custom, secure, and production-grade AI solutions.
-
-We bridge industry, culture, and innovation — from intelligent agents to automated workflows — to drive real business value.
+> Backed by World Auto Group, IL - our customer turned investor.
 
 ---
 
-## 🧠 What We Offer
+## Core Capabilities
 
-- **📊 Data Strategy** – Turn your data into a business advantage  
-- **🛠️ Custom AI Development** – Build AI tailored to your needs  
-- **💼 AI Consulting** – Expert guidance on GenAI adoption  
-- **⚙️ AI Workflow Automation** – Save time, cut costs  
-- **🧑‍💻 AI Agent Development** – Smart agents for smarter decisions  
-- **💬 Chatbot Development** – Enhance CX with intelligent conversations  
-
----
-
-## 🔄 Our Process
-
-1. **Identify Use Cases** – Spot high-impact opportunities  
-2. **Design Custom Solutions** – Blueprint AI to fit your vision  
-3. **Develop & Train** – Build robust, scalable systems  
-4. **Implement** – Integrate seamlessly into your stack  
-5. **Support** – Continuous improvements and value tracking  
+- **Voice AI Calling** - Outbound and inbound calls handled autonomously. Conversation, objection handling, and escalation - no scripts, no agents.
+- **Lead Recovery** - Re-engage customers who didn't complete a purchase. Track pipeline status and conversion rates per rooftop.
+- **NPS & Feedback Collection** - Post-service calls that score satisfaction, detect detractors, and surface top concerns by focus area.
+- **DMS Integration** - Syncs customer records, repair order history, and lifetime value from Fortellis CDK in real time.
+- **AI Insights** - Post-call analysis powered by GPT-4: sentiment detection, concern categorization, and service advisor performance tracking.
+- **Multi-Rooftop Dashboards** - Org-level and per-location views for KPIs, call metrics, and team performance.
 
 ---
 
-## 💡 Featured Projects
-
-- **🛍️ E-commerce Shopping Assistant** – Conversational AI for online shopping  
-- **📣 AI Social Media Agent** – Predictive content planning & automation  
-- **📄 Invoice Automation** – Extract, validate, and process invoices with AI  
-
----
-
-## 👥 Our Team
+## Team
 
 | Name | Role | About |
 |------|------|-------|
-| **Muhammed Saleeq** | CEO & Co-Founder | Ex-EY Tech Consultant, 5+ yrs in AI & Automation |
-| **Raoof Naushad** | CTO & Co-Founder | Data & AI Architect, ex-IITB JRF, NLP & ML expert |
-| **Michael Rodriguez** | COO (Virtual AI) | Optimizes operations & resource allocation |
-| **Emily Thompson** | CMO (Virtual AI) | Data-driven marketing strategist |
+| **Saleeq** | Co-founder & CEO | Built enterprise automation products. Obsessed with the gap between what dealerships promise and what happens. |
+| **Nevin** | Co-founder & CTO | Leads the technical architecture behind Lokam's real-time voice infrastructure. |
+| **Christin** | Software Engineer | Builds and maintains the infrastructure keeping Lokam's AI calls fast, reliable, and scalable. |
+| **Ramees** | QA Engineer | Owns quality across every release - from call flow testing to full regression coverage. |
+| **Sinan** | AI/ML Engineer | Builds and optimizes models powering Lokam's conversation intelligence and sentiment detection. |
+| **Vaibhav** | AI/ML Engineer | Works on model fine-tuning, voice pipeline improvements, and the data systems behind them. |
+| **Ishita** | AI Graphic Designer | Shapes Lokam's visual identity across product and brand - making complex AI feel approachable. |
+| **Gautham** | SWE Intern | Contributing to full-stack features and internal tooling across Lokam's core product. |
 
 ---
 
-## 🔗 Connect With Us
-
-- 📧 **Email**: [office@lokam.ai](mailto:office@lokam.ai)  
-- 🌐 **Website**: [www.lokam.ai](https://lokam.ai)  
-- 📍 **Locations**: Ontario, Canada | Bangalore, India  
-- 🧵 [Twitter](https://x.com/lokam_ai) · 📷 [Instagram](https://www.instagram.com/lokam_ai)
----
-
-## 📜 License
-
-All repositories follow `MIT` or `Apache 2.0` unless otherwise stated.
-
----
-
-<p align="center">
-  Built with ❤️, algorithms, and ambition.<br/>
-  <strong>#LokamAI</strong> · #FromDataToAI · #AIForImpact
-</p>
+<p align="center"><a href="https://calendly.com/saleeq-lokam/30-minutes-meeting">Book a demo</a></p>
